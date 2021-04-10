@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import {SCApp} from '@sandeep/shared-app'
 
 function App() {
