@@ -1,0 +1,14 @@
+{
+    "name": "@sandeep/frontend",
+    "description": "The reusable React monorepo application ",
+    "version": "1.0.0",
+    "scripts": {},
+    "author": "Sandeep Ghosh",
+    "private": true,
+    "workspaces": {
+      "packages": [
+        "shared-app",
+        "root-app"
+      ]
+    }
+  }
