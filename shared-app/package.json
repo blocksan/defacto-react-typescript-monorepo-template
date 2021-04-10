@@ -1,5 +1,5 @@
 {
-  "name": "shared-app",
+  "name": "@sandeep/shared-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
