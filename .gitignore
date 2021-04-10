@@ -41,6 +41,7 @@ build/Release
 node_modules/
 jspm_packages/
 root-app/node_modules
+shared-app/node_modules
 # TypeScript v1 declaration files
 typings/
 
