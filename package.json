@@ -9,6 +9,9 @@
       "packages": [
         "shared-app",
         "root-app"
+      ],
+      "nohoist": [
+        "babel-loader"
       ]
     }
   }
